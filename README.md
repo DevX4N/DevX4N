@@ -2,14 +2,13 @@
 
 - 🔭 Amante da tecnologia...
 - 🌱 Na caminhada do melhor...
--  As lições aprendidas na dor jamais serão esquecidas, pois só a dor gera a compreensão...
+-  The lessons learned in pain will never be forgotten, as only pain generates understanding...
   <hr>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevX4N&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical)
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-DevX4N.vercel.app/api/top-langs/?username=DevX4N&show_icons=true&theme=radical&layout=compact" />
- </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="xande-Js" height="30" width="40" left = '5px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +16,9 @@
   <img align="center" alt="xande-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="xande-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="xande-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="xande-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
