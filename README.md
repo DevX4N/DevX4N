@@ -6,7 +6,7 @@
   <hr>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <img width="384px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical" alt="Top Languages">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical" alt="Top Languages">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=radical&mode=weekly" alt="Streak Stats">
 </div>
 
