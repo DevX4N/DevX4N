@@ -1,35 +1,39 @@
-### <h1>Olá, Eu sou o Alexandre!</h1> 
+<h3 align="left"> 𝐇𝐞𝐥𝐥𝐨 𝐰𝐨𝐫𝐥𝐝, 𝐈'𝐦 𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐫𝐞! </h3>
 
-- 🔭 Amante da tecnologia...
-- 🌱 Na caminhada do melhor...
--  The lessons learned in pain will never be forgotten, as only pain generates understanding...
-  <hr>
+###
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex: 1 max-width: 48%;">
-    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical" alt="Top Languages">
-    <img style="" src="https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=radical&mode=weekly" alt="Streak Stats">
-</div>
+<h5 align="left">- 🔭 𝘼𝙢𝙖𝙣𝙩𝙚 𝙙𝙖 𝙩𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖...<br>- 🌱 𝙉𝙖 𝙘𝙖𝙢𝙞𝙣𝙝𝙖𝙙𝙖 𝙙𝙤 𝙢𝙚𝙡𝙝𝙤𝙧...<br>-  𝙏𝙝𝙚 𝙡𝙚𝙨𝙨𝙤𝙣𝙨 𝙡𝙚𝙖𝙧𝙣𝙚𝙙 𝙞𝙣 𝙥𝙖𝙞𝙣 𝙬𝙞𝙡𝙡 𝙣𝙚𝙫𝙚𝙧 𝙗𝙚 𝙛𝙤𝙧𝙜𝙤𝙩𝙩𝙚𝙣, 𝙖𝙨 𝙤𝙣𝙡𝙮 𝙥𝙖𝙞𝙣 𝙜𝙚𝙣𝙚𝙧𝙖𝙩𝙚𝙨 𝙪𝙣𝙙𝙚𝙧𝙨𝙩𝙖𝙣𝙙𝙞𝙣𝙜...</h5>
 
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="xande-Js" height="30" width="40" left = '5px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="xande-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="xande-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="xande-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="xande-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="xande-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<div align="center">
-</div>
-  
 <hr>
 
-<div> 
-  <a href="https://www.instagram.com/filh0x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:alexandrepereirax643@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevX4N&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevX4N&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+</div>
+<hr>
+
+
+<img src="https://raw.githubusercontent.com/DevX4N/DevX4N/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DevX4N/count.svg?"  />
+</div>
+
+
+
