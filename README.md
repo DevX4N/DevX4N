@@ -6,9 +6,10 @@
   <hr>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical" alt="Top Languages">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=radical&mode=weekly" alt="Streak Stats">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical" alt="Top Languages">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=radical&mode=weekly" alt="Streak Stats">
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="xande-Js" height="30" width="40" left = '5px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
