@@ -5,10 +5,11 @@
 -  The lessons learned in pain will never be forgotten, as only pain generates understanding...
   <hr>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical" alt="Top Languages">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=radical&mode=weekly" alt="Streak Stats">
+<div style="display: flex ; justify-content;">
+    <img style=" height: 195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical" alt="Top Languages">
+    <img style="width: 200% height: 200px" src="https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=radical&mode=weekly" alt="Streak Stats">
 </div>
+
 
 
 <div style="display: inline_block"><br>
