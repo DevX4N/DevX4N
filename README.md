@@ -5,8 +5,11 @@
 -  The lessons learned in pain will never be forgotten, as only pain generates understanding...
   <hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevX4N&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevX4N&layout=compact&theme=radical" alt="Top Languages">
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=radical&mode=weekly" alt="Streak Stats">
+</div>
+
 
 
 
