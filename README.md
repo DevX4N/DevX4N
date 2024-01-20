@@ -1,4 +1,4 @@
-<h1 align="left"> Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Aʟᴇxᴀɴᴅʀᴇ! </h1>
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /><h1 align="left"> Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Aʟᴇxᴀɴᴅʀᴇ! </h1>
 
 
 <h4 align="left">🔭 Aᴍᴀɴᴛᴇ ᴅᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ...<br> 🌱 Nᴀ ᴄᴀᴍɪɴʜᴀᴅᴀ ᴅᴏ ᴍᴇʟʜᴏʀ...<br> 🙏 Tʜᴇ ʟᴇssᴏɴs ʟᴇᴀʀɴᴇᴅ ɪɴ ᴘᴀɪɴ ᴡɪʟʟ ɴᴇᴠᴇʀ ʙᴇ ғᴏʀɢᴏᴛᴛᴇɴ, ᴀs ᴏɴʟᴇ ᴘᴀɪɴ ɢᴇɴᴇʀᴀᴛᴇs ᴜɴᴅᴇʀsᴛᴀɴᴅɪɴɢ...</h4>
@@ -21,13 +21,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/DevX4N/DevX4N/output/snake.svg" alt="Snake animation" />
-<br clear="both">
 <img align="right" src="https://profile-counter.glitch.me/DevX4N/count.svg?"  />
-<hr>
-
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
