@@ -1,7 +1,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /><h1 align="left"> Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Aʟᴇxᴀɴᴅʀᴇ! </h1>
 
 
-<h4 align="left">🔭 Aᴍᴀɴᴛᴇ ᴅᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ...<br> 🌱 Nᴀ ᴄᴀᴍɪɴʜᴀᴅᴀ ᴅᴏ ᴍᴇʟʜᴏʀ...<br> 🙏 Tʜᴇ ʟᴇssᴏɴs ʟᴇᴀʀɴᴇᴅ ɪɴ ᴘᴀɪɴ ᴡɪʟʟ ɴᴇᴠᴇʀ ʙᴇ ғᴏʀɢᴏᴛᴛᴇɴ, ᴀs ᴏɴʟᴇ ᴘᴀɪɴ ɢᴇɴᴇʀᴀᴛᴇs ᴜɴᴅᴇʀsᴛᴀɴᴅɪɴɢ...</h4>
+<h4 align="left">🔭 Aᴍᴀɴᴛᴇ ᴅᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ...<br> 🌱 Nᴀ ᴄᴀᴍɪɴʜᴀᴅᴀ ᴅᴏ ᴍᴇʟʜᴏʀ...<br> 🙏 Eu nunca quis ser melhor que ninguém, apenas tive meu comprometimento...</h4>
 
 ###
 
