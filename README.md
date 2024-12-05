@@ -31,10 +31,10 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/DevX4N/DevX4N/output/snake.svg" alt="Snake animation" />
-
+<p align="right" margin right: 10px >Visitas no perfil</p>
 <div align="left"> 
   <a href="https://instagram.com/filh0x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexandrepereirax643@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" src="https://profile-counter.glitch.me/DevX4N/count.svg?"  />
-  
+
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
