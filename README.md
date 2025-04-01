@@ -1,17 +1,41 @@
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /><h1 align="left"> Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Aʟᴇxᴀɴᴅʀᴇ! </h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
-
-<h4 align="left">🔭 Aᴍᴀɴᴛᴇ ᴅᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ...<br> 🌱 Nᴀ ᴄᴀᴍɪɴʜᴀᴅᴀ ᴅᴏ ᴍᴇʟʜᴏʀ...<br> 🙏 Eu nunca quis ser melhor que ninguém, apenas tive meu comprometimento...</h4>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevX4N&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevX4N&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DevX4N&locale=en&mode=daily&theme=dracula&hide_border=true&date_format=M%20j%5B,%20Y%5D&order=3" height="125" alt="streak graph"  />
+<div align="center">
+      <br>
+      Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Aʟᴇxᴀɴᴅʀᴇ!
+      <br>
+</div>
+<div align="center">
+  <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevX4N&s=14&c=2eafff&bg=00000000&no=6&ff=electrolize&tb=Profile+visits%3A++&ta=" alt="visits"></p> 
 </div>
 
-#
+<div align="center">
+  <img src = "https://imgur.com/UZJWnlK.gif" width = "300">
+  <br>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=36BCF7FF&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
+<div align="center">
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevX4N&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevX4N&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevX4N&theme=transparent&utcOffset=8) |
+| :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX4N&theme=transparent) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=shadow-blue&hide_border=true&border_radius=10.6&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -30,11 +54,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/DevX4N/DevX4N/output/snake.svg" alt="Snake animation" />
-<p align="right" margin right: 10px >Visitas no perfil</p>
-<div align="left"> 
-  <a href="https://instagram.com/filh0x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexandrepereirax643@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" src="https://profile-counter.glitch.me/DevX4N/count.svg?"  />
+#
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+<img src="https://raw.githubusercontent.com/DevX4N/DevX4N/output/snake.svg" alt="Snake animation" />
+
+<br>
+<br>
+<div align="center"> 
+  
+  <a href="https://instagram.com/filh0x" target="_blank"><img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+  <a href = "mailto:alexandrepereirax643@gmail.com"><img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+
+
+</details>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+
