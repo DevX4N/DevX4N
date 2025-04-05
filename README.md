@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src = "https://imgur.com/UZJWnlK.gif" width = "300">
+  <img src = "https://media1.tenor.com/m/PtwugW3TnagAAAAC/monkey-monkey-asking-for-food.gif" width = "250">
   <br>
 </div>
 
