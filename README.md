@@ -5,19 +5,11 @@
       Hᴇʟʟᴏ Wᴏʀᴅ, I'ᴍ Aʟᴇxᴀɴᴅʀᴇ!
       <br>
 </div>
-<div align="center">
-  <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevX4N&s=14&c=2eafff&bg=00000000&no=6&ff=electrolize&tb=Profile+visits%3A++&ta=" alt="visits"></p> 
-</div>
 
 <div align="center">
   <img src = "https://media1.tenor.com/m/PtwugW3TnagAAAAC/monkey-monkey-asking-for-food.gif" width = "250">
   <br>
 </div>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=36BCF7FF&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
-</div>
-
 
 <details align="center">
     <summary>
@@ -31,8 +23,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevX4N&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevX4N&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevX4N&theme=transparent&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX4N&theme=transparent) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevX4N&theme=shadow-blue&hide_border=true&border_radius=10.6&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |
-| :-: | :-: |
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevX4N&theme=transparent) 
   
 </div>
 <br>
