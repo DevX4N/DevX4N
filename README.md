@@ -26,7 +26,7 @@ dotnet add package Alexandre.Core
 Desenvolvedor .NET em **Santa Catarina**. Transforma requisitos vagos em `IServiceCollection` bem configurada. Compatível com C#, JavaScript e prazos otimistas.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,html,css,git,github,vscode&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,html,css,git,github,supabase,wordpress,vite,nextjs,typescript,nodejs,react,mysql,postman,vscode&theme=dark&perline=9"/>
 </div>
 
 ---
